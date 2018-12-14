@@ -8,6 +8,10 @@ This labels seperate to 3 subtype
 
 Priority, Status, and Type which on each issue should have all 3 types each.
 
+## How to use it
+
+This repository will been use with https://github.com/kamontat/gh-labels-replacer
+
 ## Labels
 
 1. name: [Priority: High](https://github.com/GH-Label/Agile-Template/labels/Priority:%20High)
